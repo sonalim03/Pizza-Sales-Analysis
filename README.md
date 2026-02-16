@@ -66,15 +66,7 @@ The Power BI dashboard includes:
 
 ## 🖼 Dashboard Preview
 
-(Add your screenshots inside the Images folder)
-
-Example:
-
-```
-![Dashboard](Images/dashboard1.png)
-```
-
----
+![Dashboard](Images\dashboard_overview.png)
 
 ## 🎥 Project Demo Video
 
