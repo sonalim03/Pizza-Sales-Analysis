@@ -66,7 +66,7 @@ The Power BI dashboard includes:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](Pizza-Sales-Analysis/Images/dashboard_overview.png)
 
 
 ## 🎥 Project Demo Video
