@@ -71,15 +71,8 @@ The Power BI dashboard includes:
 
 ## 🎥 Project Demo Video
 
-(Add your demo video inside the Video folder)
+[Watch Demo Video](Pizza-Sales-Analysis/Video/pizza sales 2026-02-16 19-26-01.mp4)
 
-Example:
-
-```
-[Watch Demo Video](Video/demo.mp4)
-```
-
----
 
 ## 📁 Project Structure
 
